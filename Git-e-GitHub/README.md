@@ -9,7 +9,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 ## 🖥️ Resumo das aulas
 
-| Aulas | Resumo |
+| Comandos | Descrição |
 |-------|---------|
 | git init | Para iniciar o git no diretório local atual |
 | git add README.md | Adicionar um readme.md para seu repositório |
