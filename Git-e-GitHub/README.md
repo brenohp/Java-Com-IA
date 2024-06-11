@@ -1,5 +1,5 @@
 
-# DIO - Modulo Versionamento de código com Git e GitHub
+# MÓDULO - Versionamento de código com Git e GitHub
 
 Repositório para armazenar resumos sobre Git e Github do curso de versionamento de código com Git e GitHub [Digital Innovation One](https://www.dio.me/)
 
