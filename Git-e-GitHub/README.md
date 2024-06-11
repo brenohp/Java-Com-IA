@@ -9,6 +9,8 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 ## 🖥️ Resumo das aulas
 
+### Comandos do git
+
 | Comandos | Descrição |
 |-------|---------|
 | git init | Para iniciar o git no diretório local atual |
@@ -29,7 +31,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git reset --hard "código do commit que deseja alterar" | Apaga todos os arquivos do commit selecionado |
 | git reflog | ostra o histório de alterações nos commit |
 
-## Códigos terminal
+### Comandos do terminal
 
 ```
 cat "nome arquivo" [arquivo que deseja exibir]
