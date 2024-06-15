@@ -43,13 +43,6 @@ cat "nome arquivo" [arquivo que deseja exibir]
 
 ```
 
-### Trabalhando com branches
-
-```
-ec
-
-```
-
 
 
 ## 🔎Referências
