@@ -38,6 +38,13 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git fetch origin main | para atualizar alterações feita no repositório remoto sem aparecer no repositório local |
 | git diff main origin/main | mostra as alterações feita no repositório remoto |
 | git merge main origin/main | baixar conteudo da branch remota sem mesclar com a branch local |
+| git merge main origin/main | baixar conteudo da branch remota sem mesclar com a branch local |
+| git clone "link repositório" --branch "branch que deseja clonar" --single-branch | clonar branch especifica no repo local|
+| git stash | arquivar alteração feita |
+| git stash -list | mostra as modificações que arquivamos |
+
+
+
 
 ### Comandos do terminal
 
