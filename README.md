@@ -1,15 +1,6 @@
 
-# MÓDULO - Versionamento de código com Git e GitHub
-
-Repositório para armazenar resumos sobre Git e Github do curso de versionamento de código com Git e GitHub [Digital Innovation One](https://www.dio.me/)
-
-## 📚 Documentação
-- [Documentação Git](https://git-scm.com/docs/git/pt_BR)
-- [Documentação GitGub](https://docs.github.com/pt)
-
-## 🖥️ Resumo das aulas
-
-### Comandos do git
+# Comandos do git
+Aqui está uma lista de comandos do git para facilitar
 
 | Comandos | Descrição |
 |-------|---------|
@@ -45,7 +36,6 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 
 
-## 🔎Referências
-- [Digital Innovation One](https://www.dio.me/)
+
 
 
