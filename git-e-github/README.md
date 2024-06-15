@@ -68,7 +68,7 @@ Introduzir ao versionamento de código com Git e GitHub.
       <td>Comandos github</td>
       <td align="center">
         <a href="https://github.com/brenohp/Java-Com-IA/blob/main/git-e-github/materiais-de-apoio/comandos-git.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>    
     </tr>
