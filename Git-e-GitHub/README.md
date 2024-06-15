@@ -30,6 +30,11 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git reset --mixed "código do commit que deseja alterar" | Coloca os arquivos do commit na arvore de trabalho |
 | git reset --hard "código do commit que deseja alterar" | Apaga todos os arquivos do commit selecionado |
 | git reflog | ostra o histório de alterações nos commit |
+| git checkout -b "nome branch nova" | trocar da branch atual para uma nova apontando para o commit atual |
+| git checkout "nome da branch" | retornar para branch citada |
+| git branch -v | listar todas as branch e ultimos commit|
+| git brach | listar todas as branch |
+| git branch -d "nome branch" | deletar branch selecionada |
 
 ### Comandos do terminal
 
@@ -38,5 +43,16 @@ cat "nome arquivo" [arquivo que deseja exibir]
 
 ```
 
+### Trabalhando com branches
+
+```
+ec
+
+```
+
+
+
 ## 🔎Referências
 - [Digital Innovation One](https://www.dio.me/)
+
+
