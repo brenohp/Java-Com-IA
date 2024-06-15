@@ -45,16 +45,6 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 
 
-
-### Comandos do terminal
-
-```
-cat "nome arquivo" [arquivo que deseja exibir]
-
-```
-
-
-
 ## 🔎Referências
 - [Digital Innovation One](https://www.dio.me/)
 
