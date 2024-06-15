@@ -33,8 +33,11 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git checkout -b "nome branch nova" | trocar da branch atual para uma nova apontando para o commit atual |
 | git checkout "nome da branch" | retornar para branch citada |
 | git branch -v | listar todas as branch e ultimos commit|
-| git brach | listar todas as branch |
+| git branch | listar todas as branch |
 | git branch -d "nome branch" | deletar branch selecionada |
+| git fetch origin main | para atualizar alterações feita no repositório remoto sem aparecer no repositório local |
+| git diff main origin/main | mostra as alterações feita no repositório remoto |
+| git merge main origin/main | baixar conteudo da branch remota sem mesclar com a branch local |
 
 ### Comandos do terminal
 
