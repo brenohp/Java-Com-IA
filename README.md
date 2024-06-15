@@ -1,22 +1,13 @@
 
-# DIO - Resumos Git e GitHub
+# DIO - Java com IA
 
-Repositório para armazenar resumos sobre Git e Github do curso de versionamento de código com Git e GitHub [Digital Innovation One](https://www.dio.me/)
+Repositório para armazenar resumos do bootcamp Java com IA da [Digital Innovation One](https://www.dio.me/)
 
-## 📚 Documentação
-- [Documentação Git](https://git-scm.com/docs/git/pt_BR)
-- [Documentação GitGub](https://docs.github.com/pt)
+## 📚 Modulos
+- [Versionamento com Git e GitHub](https://github.com/brenohp/Java-Com-IA/tree/main/Git-e-GitHub)
 
-## 🖥️ Resumo das aulas
-
-| Aulas | Resumo |
-|-------|---------|
-| Aula 1 | [Resumo]() |
-| Aula 2 | [Resumo]() |
-
-```
-git init
-```
 
 ## 🔎Referências
 - [Digital Innovation One](https://www.dio.me/)
+- [Java-Básico](https://glysns.gitbook.io/java-basico)
+
