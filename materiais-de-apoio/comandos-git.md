@@ -30,13 +30,22 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git reset --mixed "código do commit que deseja alterar" | Coloca os arquivos do commit na arvore de trabalho |
 | git reset --hard "código do commit que deseja alterar" | Apaga todos os arquivos do commit selecionado |
 | git reflog | ostra o histório de alterações nos commit |
+| git checkout -b "nome branch nova" | trocar da branch atual para uma nova apontando para o commit atual |
+| git checkout "nome da branch" | retornar para branch citada |
+| git branch -v | listar todas as branch e ultimos commit|
+| git branch | listar todas as branch |
+| git branch -d "nome branch" | deletar branch selecionada |
+| git fetch origin main | para atualizar alterações feita no repositório remoto sem aparecer no repositório local |
+| git diff main origin/main | mostra as alterações feita no repositório remoto |
+| git merge main origin/main | baixar conteudo da branch remota sem mesclar com a branch local |
+| git merge main origin/main | baixar conteudo da branch remota sem mesclar com a branch local |
+| git clone "link repositório" --branch "branch que deseja clonar" --single-branch | clonar branch especifica no repo local|
+| git stash | arquivar alteração feita |
+| git stash -list | mostra as modificações que arquivamos |
 
-### Comandos do terminal
 
-```
-cat "nome arquivo" [arquivo que deseja exibir]
-
-```
 
 ## 🔎Referências
 - [Digital Innovation One](https://www.dio.me/)
+
+
