@@ -16,7 +16,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | git init | Para iniciar o git no diretório local atual |
 | git add README.md | Adicionar um readme.md para seu repositório |
 | git clone | Para clonar repositório |
-| it clone --branch feature-1 --single-branch | Clonar apenas uma branch |
+| git clone --branch feature-1 --single-branch | Clonar apenas uma branch |
 | git remote add origin "URL" | Conectar remotamente em um repositório |
 | git branch -M main | [Resumo]() |
 | git push -u origin main | [Resumo]() |
