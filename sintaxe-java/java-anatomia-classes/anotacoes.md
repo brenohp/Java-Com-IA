@@ -3,7 +3,7 @@
 Repositório para armazenar resumos sobre o bootcamp Java com IA [Digital Innovation One](https://www.dio.me/)
 
 
-
+# Anatomia de classes
 ## Exemplos de organização de pacote
 
 comercial (com)
@@ -26,7 +26,8 @@ edu.lucas.tema.controledefluxo
 edu.lucas.tema.primeirasemana
 edu.lucas.tema.logica
 
-
+# Tipos e Variáveis
+## 
 
 
 
