@@ -6,5 +6,6 @@ Repositório para armazenar resumos sobre o bootcamp Java com IA [Digital Innova
 
 ## 🔎Referências
 - [Digital Innovation One](https://www.dio.me/)
+- [Guia Java Básico](https://glysns.gitbook.io/java-basico)
 
 
