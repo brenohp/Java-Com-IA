@@ -1,6 +1,6 @@
-public class TiposVariaveis {
-
-    public static void main (String [] args )  throws Execption {
+public class Variaveis {
+    public static void main(String[] args) {
+        
         double salarioMinimo = 2500;
         float pi = 3.14F;
         long cpf = 19245652516L;
@@ -13,6 +13,6 @@ public class TiposVariaveis {
 
         numero = 2;
 
-        const
+        System.out.println(salarioMinimo + pi + cpf + numeroCurto2 + numero);
     }
-}  
+}
